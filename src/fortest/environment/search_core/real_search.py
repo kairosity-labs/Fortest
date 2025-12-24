@@ -55,8 +55,8 @@ async def parallel_search(query: str, testing_time: str) -> List[Dict[str, Any]]
 
     client = Parallel(api_key=api_key)
     
-    # Requesting results (Parallel doesn't have native "before" filter)
-    resp = client.beta.search(objective=query, max_results=20)
+    # Requesting a larger set to increase chances of finding old results
+    resp = client.beta.search(objective=query, max_results=50)
     
     try:
         cutoff = datetime.fromisoformat(testing_time.replace("Z", "+00:00")).date()
@@ -119,8 +119,8 @@ async def ddg_news_search(query: str, testing_time: str) -> List[Dict[str, Any]]
 
     out = []
     with DDGS() as ddgs:
-        # Using timelimit="y" to get semi-recent/old results if needed
-        for item in ddgs.news(query, timelimit="y", max_results=50):
+        # Using a larger max_results for post-filtering
+        for item in ddgs.news(query, timelimit="y", max_results=100):
             d = item.get("date") or item.get("datetime") or item.get("published")
             if not d:
                 continue
@@ -173,8 +173,8 @@ async def ddg_text_search(query: str, testing_time: str) -> List[Dict[str, Any]]
 
     out = []
     with DDGS() as ddgs:
-        # Using timelimit="y" to attempt to get older results
-        for item in ddgs.text(query, timelimit="y", max_results=20):
+        # Using a larger max_results for post-filtering
+        for item in ddgs.text(query, timelimit="y", max_results=100):
             d = item.get("date")
             if d:
                 try:

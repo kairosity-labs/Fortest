@@ -34,14 +34,30 @@ async def test_all_apis(query: str, testing_time: str):
             elif isinstance(results, list) and results and "error" in results[0]:
                 print(f"Result: ERROR - {results[0]['error']}")
             else:
-                count = len(results) if isinstance(results, list) else 1
-                print(f"Result: SUCCESS - Found {count} results")
-                # Print the first result as JSON to see the structure
+                # Determine "real" count for dict responses
+                real_count = 0
+                if isinstance(results, list):
+                    real_count = len(results)
+                elif isinstance(results, dict):
+                    if "organic_results" in results:
+                        real_count = len(results["organic_results"])
+                    elif "news_results" in results:
+                        real_count = len(results["news_results"])
+                    elif "citations" in results:
+                        real_count = len(results["citations"])
+                    elif "choices" in results:
+                        # Perplexity often puts the answer here
+                        real_count = 1
+                    else:
+                        real_count = 1
+                
+                print(f"Result: SUCCESS - Found {real_count} real results")
+                
+                # Print the first result or the structure
                 if isinstance(results, list) and results:
                     print(f"Structure of first result:\n{json.dumps(results[0], indent=2)}")
                 elif isinstance(results, dict):
-                    # For dict responses (like SearchApi or Perplexity)
-                    print(f"Structure of response:\n{json.dumps(results, indent=2)[:1000]}...")
+                    print(f"Structure of response (truncated):\n{json.dumps(results, indent=2)[:1000]}...")
         except Exception as e:
             print(f"Result: FAILED with exception: {str(e)}")
 
