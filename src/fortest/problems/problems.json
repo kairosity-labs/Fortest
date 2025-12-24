@@ -1,0 +1,26 @@
+[
+    {
+        "problem_id": "P001",
+        "question": "Will SpaceX successfully land a Starship on Mars by the end of 2026?",
+        "metadata": {
+            "source": "Metaculus",
+            "category": "Space"
+        },
+        "time_start": "2024-01-01T00:00:00Z",
+        "time_end": "2026-12-31T23:59:59Z",
+        "resolved_flag": false,
+        "resolution_status": null
+    },
+    {
+        "problem_id": "P002",
+        "question": "Will a major AI company release a GPT-5 equivalent model before June 2024?",
+        "metadata": {
+            "source": "Manifold",
+            "category": "AI"
+        },
+        "time_start": "2023-10-01T00:00:00Z",
+        "time_end": "2024-06-01T00:00:00Z",
+        "resolved_flag": true,
+        "resolution_status": 0
+    }
+]
