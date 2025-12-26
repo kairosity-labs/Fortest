@@ -39,6 +39,14 @@ class EnvironmentManager:
         """Returns available search/data functions."""
         return self.search_core.list_available_functions()
 
+    def get_available_loader_strategies(self) -> List[str]:
+        """Returns available problem loader strategies."""
+        return self.loader.list_available_loaders()
+
+    def get_available_metrics(self) -> List[str]:
+        """Returns list of metrics computed in the report."""
+        return ["brier_score", "accuracy"]
+
     async def search(self, function_name: str, problem_id: str, query: str) -> Any:
         """Runs a search function with testing_time injection."""
         if problem_id not in self.problems:
@@ -82,7 +90,7 @@ class EnvironmentManager:
         
         return subs[-1]["prediction"]
 
-    def compute_metrics(self) -> Dict[str, float]:
+    def compute_metrics(self, metrics_list: List[str] = None) -> Dict[str, float]:
         """Computes metrics for all resolved problems that have submissions."""
         predictions = []
         outcomes = []
@@ -100,22 +108,33 @@ class EnvironmentManager:
                 predictions.append(pred)
                 outcomes.append(actual)
 
+        result = {"count": len(predictions)}
         if not predictions:
-            return {"brier_score": 0.0, "accuracy": 0.0, "count": 0}
+            # Default zero for all available if no preds
+            available = self.get_available_metrics()
+            target = metrics_list or available
+            for m in target:
+                result[m] = 0.0
+            return result
 
-        return {
-            "brier_score": brier_score(predictions, outcomes),
-            "accuracy": accuracy(predictions, outcomes),
-            "count": len(predictions)
-        }
+        target = metrics_list or self.get_available_metrics()
+        
+        if "brier_score" in target:
+            result["brier_score"] = brier_score(predictions, outcomes)
+        if "accuracy" in target:
+            result["accuracy"] = accuracy(predictions, outcomes)
+            
+        return result
 
-    def report(self):
+    def report(self, metrics: List[str] = None):
         """Final report of the benchmarking run."""
-        metrics = self.compute_metrics()
+        results = self.compute_metrics(metrics_list=metrics)
         self.log("--- FINAL BENCHMARK REPORT ---")
         self.log(f"Problems processed: {len(self.problems)}")
         self.log(f"Submissions received: {sum(len(s) for s in self.submissions.values())}")
-        self.log(f"Metrics (on {metrics['count']} resolved problems):")
-        self.log(f"  Brier Score: {metrics['brier_score']:.4f}")
-        self.log(f"  Accuracy: {metrics['accuracy']:.4f}")
-        return metrics
+        self.log(f"Metrics (on {results['count']} resolved problems):")
+        
+        for k, v in results.items():
+            if k != "count":
+                self.log(f"  {k}: {v:.4f}")
+        return results

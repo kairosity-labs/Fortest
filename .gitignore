@@ -16,3 +16,6 @@ Thumbs.db
 .python-version
 .pytest_cache
 .env
+
+# Data
+data/
