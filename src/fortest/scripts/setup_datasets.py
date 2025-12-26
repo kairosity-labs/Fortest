@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 REPO_URL = "https://github.com/forecastingresearch/forecastbench-datasets"
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+BASE_DIR = os.getcwd() # Use current working directory for data download
 DATA_DIR = os.path.join(BASE_DIR, "data")
 TARGET_DIR = os.path.join(DATA_DIR, "forecastbench")
 
