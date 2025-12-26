@@ -59,6 +59,14 @@ To run a script within the environment:
 uv run <your_script.py>
 ```
 
+### 5. Initial Data Setup
+
+To download and set up the necessary datasets (e.g. ForecastBench):
+
+```bash
+uv run src/fortest/scripts/setup_datasets.py
+```
+
 ## Benchmarking System Architecture
 
 The project is a benchmarking package for event forecasting.
