@@ -62,6 +62,26 @@ This dataset contains **8,575 resolved** forecasting questions from ForecastBenc
 
 ![Horizon by Source](./plots/horizon_by_source.png)
 
+### Horizon - All Sources (with Data Sources)
+
+![Horizon All Sources](./plots/horizon_all_sources.png)
+
+| Source | Count | Min | Max | Mean | Median |
+|--------|-------|-----|-----|------|--------|
+| acled | 60 | 90d | 90d | 90d | 90d |
+| dbnomics | 821 | 7d | 365d | 136d | 180d |
+| fred | 995 | 7d | 365d | 144d | 180d |
+| wikipedia | 969 | 7d | 365d | 142d | 180d |
+| yfinance | 995 | 7d | 365d | 143d | 180d |
+
+### Horizon - Data Sources Only
+
+![Horizon Data Sources](./plots/horizon_data_sources.png)
+
+### Horizon Comparison: Data vs Markets
+
+![Horizon Comparison](./plots/horizon_comparison.png)
+
 ---
 
 ## Files
