@@ -105,25 +105,71 @@ async def my_search(query, testing_time):
     return results
 ```
 
-### Running Benchmarks (Example)
+### Pipeline Usage & Examples
+
+For a complete runnable example, see `examples/pipeline_demo.py`.
+
+#### 1. Running the Demo
+```bash
+uv run examples/pipeline_demo.py
+```
+This script demonstrates:
+- Loading questions with different strategies (Extensive, Source-specific)
+- Generating random datasets using seeds
+- Running a simulated agent pipeline
+- Generating evaluation reports
+
+#### 2. Generating Random Question Sets
+You can generate reproducible random datasets by changing the `seed` and `max_quest` parameters.
 
 ```python
 from fortest.environment.manager import EnvironmentManager
-import asyncio
 
-async def run():
-    env = EnvironmentManager(loader_strategy="load_all", eval_strategy="recent")
-    problems = env.get_problems()
-    
-    for pid, prob in problems.items():
-        # Search for info
-        results = await env.search("mock_google", pid, prob["question"])
-        # Agent predicts...
-        env.submit_prediction(pid, 0.6)
-    
-    env.report()
+# Generate a random set of 100 questions from all sources
+env = EnvironmentManager(
+    loader_strategy="forecastbench_v1_extensive",
+    max_quest=100,
+    seed=42  # Change seed to get a different set
+)
 
-asyncio.run(run())
+problems = env.get_problems()
+print(f"Loaded {len(problems)} questions")
+```
+
+#### 3. Using Different Loaders
+Supported strategies for `ForecastBench_v1`:
+
+| Strategy | Description |
+|----------|-------------|
+| `forecastbench_v1_extensive` | **Recommended**. Balanced sampling across all 9 sources. |
+| `forecastbench_v1_source` | Load from a specific source (e.g., `fred`, `manifold`). |
+| `forecastbench_v1` | Base loader with `sources` and `horizons` filters. |
+
+**Example: Specific Source & Horizon**
+```python
+env = EnvironmentManager(
+    loader_strategy="forecastbench_v1_source",
+    source="fred",
+    horizons=["long_term", "very_long_term"],
+    max_quest=50,
+    seed=123
+)
+```
+
+#### 4. Evaluating Predictions
+The pipeline automatically handles metric calculation.
+
+```python
+# Submit predictions
+for pid in env.problems:
+    env.submit_prediction(pid, 0.75)
+
+# Generate report with Brier Score and Accuracy
+metrics = env.report(metrics=["brier_score", "accuracy"])
+# Output:
+# Problems processed: 50
+# brier_score: 0.1875
+# accuracy: 0.6200
 ```
 
 ### Running Tests
