@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "Will Vladimir Putin be the President of Russia at the end of 2024?",
+    "id": "Nc8DWWUyYm6CQp6PvOEv",
+    "source": "manifold",
+    "background": "Currently (28.II.23), presidential elections in Russia are scheduled to be held on 17th of March, 2024.\n\nThis market will be resolved to:\n\nYES -- if on 31st of December, 2024, 23:59 UTC Vladimir V. Putin is considered (by other russian officials) to be the President (more generally -- head of state) of Russian Federation.\n\nNO -- the conditions in YES are met for a person other than Vladimir V. Putin.\n\nN/A -- any other outcome \n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Inosen_Infinity/will-vladimir-putin-be-the-presiden-00a0332740bc.",
+    "url": "https://manifold.markets/Inosen_Infinity/will-vladimir-putin-be-the-presiden-00a0332740bc",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-12-31"
+  },
+  {
+    "question": "Will the OpenAI board fire Sam Altman again in 2024?",
+    "id": "0750nMx1Fqq4CWdoBHdX",
+    "source": "manifold",
+    "background": "The OpenAI board fired Sam Altman in 2023, see Wikipedia. While Sam Altman returned, he is a habitual liar and many problems with him have not been resolved, so it is conceivable that the board may fire him again, to uphold the non-profit mission.\n\nWill this happen in 2024?",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/SanghyeonSeo/will-the-openai-board-fire-sam-altm.",
+    "url": "https://manifold.markets/SanghyeonSeo/will-the-openai-board-fire-sam-altm",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will Kamala Harris be the Democratic Nominee for President in 2024?",
+    "id": "PNVVTlruggno0Yw5tjVS",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/MarketManagerBot/will-kamala-harris-be-the-democrati.",
+    "url": "https://manifold.markets/MarketManagerBot/will-kamala-harris-be-the-democrati",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-08-05"
+  },
+  {
+    "question": "Will Jimmy Carter exist at the end of August 2024?",
+    "id": "3wRmZN5B5UypDistmDUA",
+    "source": "manifold",
+    "background": "Resolves \"Yes\" if we have reason to believe Jimmy Carter was alive and existing at 11:59 ET on August 31, 2024\n\nResolves \"No\" if any of the followings things cause Jimmy Carter to stop existing. These things include, but are not limited to:\n\nTechnological singularity\n\nSpontaneous combustion\n\nTransmutation into a higher state of existence.\n\nIf there are any other circumstances that might resolve this No you are curious about feel free to ask in the comments.\n\nJimmy Markets | Dashboard | Wiki | Naval Service\n\nWeek | Month | Quarter | Season | Year\n\nOdds | Evens | Weekday | Weekend | Federal Holiday\n\nApril Fools | Cinco De Mayo | Day of the Dead\n\nTropic 7 | Civ 7 | Farcry 7 | mira |\n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/JCDM/will-jimmy-carter-exist-at-the-end-b49b95ee21dd.",
+    "url": "https://manifold.markets/JCDM/will-jimmy-carter-exist-at-the-end-b49b95ee21dd",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-09-02"
+  },
+  {
+    "question": "Will a Democrat win the 2024 US presidential election?",
+    "id": "ylIXgDeMDCYkltnmAlpZ",
+    "source": "manifold",
+    "background": "Resolves according to the opinion of mainstream liberal news sources like NYT, WaPo, Atlantic, etc. in case of a disputed result.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/SG/will-a-democrat-win-the-2024-us-pre.",
+    "url": "https://manifold.markets/SG/will-a-democrat-win-the-2024-us-pre",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-11-06"
+  },
+  {
+    "question": "Will Taylor Swift release Reputation (Taylor's Version) before the end of 2024?",
+    "id": "iokMHn6kkmntt9E0aHHz",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/PaulSchleuse/will-taylor-swift-release-reputatio.",
+    "url": "https://manifold.markets/PaulSchleuse/will-taylor-swift-release-reputatio",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie get over a 6.0 on IMDB?",
+    "id": "ex1RJ8NMa2JT0zcrPtQg",
+    "source": "manifold",
+    "background": "6.1 or above, in other words.\n\n7.0 or above:\n\nhttps://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g\n\n6.5 or above:\n\nhttps://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g-677bcc0666ba",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g-d6f6e64fc519.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g-d6f6e64fc519",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-12"
+  },
+  {
+    "question": "Will Doors of Stone, the third book of the Kingkiller Chronicle by Patrick Rothfuss, be released before 2025?",
+    "id": "HFuD5HPpd2ZR9gLk6nhj",
+    "source": "manifold",
+    "background": "The Kingkiller Chronicle is a fantasy trilogy by the American writer Patrick Rothfuss. The first two books, The Name of the Wind and The Wise Man's Fear, were released in 2007 and 2011. The books released in the series have sold over 10 million copies.\n\nThe trilogy's third installment has been long awaited, and many fans feel disillusioned after waiting for >11 years. \n\nThis question resolves positively on the book's actual release date when it is available in stores and online shops. A pre-order date doesn't count.\n\nResolves to NO if the book is not released before January 1st, 2025. ",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/MaxG/will-doors-of-stone-the-third-book-5b12f67a7403.",
+    "url": "https://manifold.markets/MaxG/will-doors-of-stone-the-third-book-5b12f67a7403",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-31"
+  },
+  {
+    "question": "Will an LLM co/author a NYT Bestseller in the next year?",
+    "id": "AXdiGoQlSHAH9vzCVAN1",
+    "source": "manifold",
+    "background": "Appearing in the credits or acknowledgements (e.g. \"written with loving support from my dear wife, GPT-4\") is sufficient.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Jon_Flop_Boat/will-an-llm-coauthor-a-nyt-bestsell.",
+    "url": "https://manifold.markets/Jon_Flop_Boat/will-an-llm-coauthor-a-nyt-bestsell",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-08-18"
+  },
+  {
+    "question": "Will an artificial intelligence system play a major artistic role in the 2024 Olympic opening ceremonies?",
+    "id": "KtGRsTouYWiDPaPhRC3o",
+    "source": "manifold",
+    "background": "Olympic ceremonies have often featured technologies in ways that have never been used at major events.  Augmented reality, drone swarms, and stadium floor projections are examples of breakthrough ways that technology was used artistically.  Will AI be featured in a similar role this July?\n\nThis market will resolve to YES if an artificial intelligence system is featured in a major artistic role during the 2024 Olympic opening cermonies.\n\nThe software must not be a rules-based determinstic system\n\nThe software must be actually featured in a noteworthy role during the ceremony, rather than just mentioned in passing or used off-camera\n\nThe software must be used artistically, not solely to serve a utilitarian purpose\n\nThe software must be LIVE, not in a prerecorded video\n\nThe software must be operating on its own, free from human control\n\nExamples of YES resolutions:\n\nHumanoid robots carry the Olympic flag under the Eiffel Tower\n\nA segment is dedicated to French technology, narrated live by Mixtral 8x7B\n\nAn LLM serves as the DJ\n\nSelf-driving cars roar into the area where the torch will be lit and drive around the athletes\n\nInsufficient examples:\n\nA model produces closed captions for viewers (not artistic)\n\nA self-driving car drives a dignitary to an event (not featured in the ceremony)\n\nA video of robots juggling is played (not live)\n\nA robot operated by a joystick outraces an Olympic champion (not autonomous)\n\nOtherwise, the market resolves to NO.  It resolves to N/A if the ceremony is not held by August 31, 2024.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/SteveSokolowski/will-an-artificial-intelligence-sys.",
+    "url": "https://manifold.markets/SteveSokolowski/will-an-artificial-intelligence-sys",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-07-27"
+  },
+  {
+    "question": "Will Sam Altman be a co-founder of a serious OpenAI competitor by EOY 2024?",
+    "id": "IUetZc700ZLVlkWh6n0D",
+    "source": "manifold",
+    "background": "Resolves to YES if Sam Altman is a cofounder of a new company, with at least $500 million in funding, that declares it will attempt to train foundation models, aim to create AGI and compete with OpenAI, DeepMind and Anthropic. \n\nNote that the company must declare it intends to train SOTA AI models or otherwise be explicitly aiming to create AGI - a generic AI company would not count. \n\n(Getting this up fast, will clarify exact conditions as needed, suggestions welcome.)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/ZviMowshowitz/will-sam-altman-be-a-cofounder-of-a.",
+    "url": "https://manifold.markets/ZviMowshowitz/will-sam-altman-be-a-cofounder-of-a",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will a large scale Alignment Project like The Omega Protocol be funded before 2025?",
+    "id": "iUA9Ddc0CVYiNthwVluW",
+    "source": "manifold",
+    "background": "Will an organization or government fund a project that construct an AI containment zone where we can safely create AGI and possibly Superintelligence? Some theorize that we can use AGI to independently generate candidate alignment procedures which we could verify safe using a combination of top scientists and the other AGIs in containment. \n\nhttps://chriscanal.substack.com/p/the-omega-protocol-another-manhattan\n\n[link preview]",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/ChrisCanal/will-a-large-scale-alignment-projec.",
+    "url": "https://manifold.markets/ChrisCanal/will-a-large-scale-alignment-projec",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-02"
+  },
+  {
+    "question": "Will Apple\u2019s next iPhone (2024) include an on-device LLM \u201cChatBot\u201d?",
+    "id": "4puVWhIkvQiHnTxbH4NL",
+    "source": "manifold",
+    "background": "I've seen rumors that Apple might be working on local on-device LLMs for iPhones. I wonder if this is true. The market will resolve \"yes\" if Apple's new device features an on-device conversational LLM. It would suffice if the LLM is a combination of on-device and cloud-based processing.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Soli/will-apples-next-iphone-2024-includ.",
+    "url": "https://manifold.markets/Soli/will-apples-next-iphone-2024-includ",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-09-13"
+  },
+  {
+    "question": "Will Ding Liren repeat as World Chess Champion?",
+    "id": "iPG19DGNrWEkbUBjfk6L",
+    "source": "manifold",
+    "background": "Yes if he successfully defends his title\n\nNo if he does not",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AlexLiesman/will-ding-liren-repeat-as-world-che.",
+    "url": "https://manifold.markets/AlexLiesman/will-ding-liren-repeat-as-world-che",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-13"
+  },
+  {
+    "question": "Will the U.S. win the gold medal in the Men's Basketball at the 2024 Summer Olympics in Paris?",
+    "id": "VB1RhUVlnNfhclAh4LvR",
+    "source": "manifold",
+    "background": "Not the 3x3 basketball, the regular basketball. ",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Tripping/will-the-us-win-the-gold-medal-in-t.",
+    "url": "https://manifold.markets/Tripping/will-the-us-win-the-gold-medal-in-t",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-08-11"
+  },
+  {
+    "question": "Will Rafael Nadal win another Grand Slam before his retirement?",
+    "id": "lFx5LHHUTgHnQPquiOMs",
+    "source": "manifold",
+    "background": "Start date: Feb 7, end date: Rafa retires.\n\nWill he win a GS again? \n\nI hope he does. Will update the close date if required.\n\nIf Rafa retires and comes out of retirement to win a GS, that doesnt count.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/_deleted_/will-rafael-nadal-win-another-grand.",
+    "url": "https://manifold.markets/_deleted_/will-rafael-nadal-win-another-grand",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-11-21"
+  },
+  {
+    "question": "Will Lionel Messi retire before the end of 2024?",
+    "id": "2ZLAoe3EAFVhcFAXXfPp",
+    "source": "manifold",
+    "background": "Argentina skipper Lionel Messi denied rumours of his retirement post the World Cup win against France, saying he wishes to keep playing for his country.\n\n(https://sportstar.thehindu.com/football/fifa-world-cup/news/messi-argentina-no-plan-to-retire-arg-vs-fra-world-cup-final-qatar-wc-2022/article66279720.ece#:~:text=for%20his%20country.-,Argentina%20skipper%20Lionel%20Messi%20denied%20rumours%20of%20his%20retirement%20post,TyC%20Sports%20after%20the%20match.)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AmmonLam/will-lionel-messi-retire-before-the-e18f65f54b65.",
+    "url": "https://manifold.markets/AmmonLam/will-lionel-messi-retire-before-the-e18f65f54b65",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "[2024 Formula 1 Season] Will Sergio Perez finish 2nd or higher in the Drivers Championship?",
+    "id": "0m2HGw8Pd4ZTIgga0Pzv",
+    "source": "manifold",
+    "background": "[THIS IS FOR THE 2024 WORLD CHAMPIONSHIP]\n\nResolves YES if Sergio Perez finishes in 2nd place or wins the World Drivers Championship in 2024, either by season end, or when his position becomes mathematically impossible to challenge.\n\nIf Sergio Perez is replaced mid-season/retires or is otherwise no longer a driver on the grid the market will continue, using his final points in the standings prior to his leaving for the market.\n\nIf Perez never starts the 2024 season (eg. retires between 2023 season end, and the first 2024 race) the market will resolve N/A. As soon as Perez participates in a Grand Prix practice session, the market will count his participation in the season.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Arch1e/2024-formula-1-season-will-sergio-p.",
+    "url": "https://manifold.markets/Arch1e/2024-formula-1-season-will-sergio-p",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-08"
+  },
+  {
+    "question": "Will white-collar workers unionize to prevent job loss to AI/automation in 2024?",
+    "id": "UQRBDDvSiDEEsJbevE4p",
+    "source": "manifold",
+    "background": "[This is Kevin's medium-confidence prediction from the 12/22/23 episode of Hard Fork]\n\nThis market will resolve to yes if there is significant new union activity in at least 3 of these 5 fields by December 31, 2024: law, finance, medicine, media and tech. To count, unions don't need to be NLRB-certified by the end of 2024, but preventing AI and automation-related job loss should be among the organizers' top stated priorities.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/KevinRoose18ac/will-whitecollar-workers-unionize-t.",
+    "url": "https://manifold.markets/KevinRoose18ac/will-whitecollar-workers-unionize-t",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will Rational Animations' video about Manifold Markets reach 200k views by the end of 2024?",
+    "id": "taYZcNp99aWqZLI2nq9v",
+    "source": "manifold",
+    "background": "Here's the video: https://youtu.be/DB5TfX7eaVY",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Writer/will-rational-animations-second-vid.",
+    "url": "https://manifold.markets/Writer/will-rational-animations-second-vid",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-31"
+  },
+  {
+    "question": "Will over 70% of Manifold users think that Elon Musk does not deserve 100 billion dollars?",
+    "id": "0yVJeShTMcm0FA8UrcCL",
+    "source": "manifold",
+    "background": "Resolves according to this poll\n\n(https://manifold.markets/embed/KeenenWatts/does-elon-musk-deserve-100-billion)\nTake the total vote on \"No\", divided by the total number of voters on the market, to compute the % voted on \"No\".\n\nMarket Resolves Yes if the % voted on \"No\" is larger than 70% at the end of 2024",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AmmonLam/will-over-70-of-manifold-users-thin.",
+    "url": "https://manifold.markets/AmmonLam/will-over-70-of-manifold-users-thin",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will Binance collapse before the end of 2024?",
+    "id": "yVAEXGniXeFkCfHQajGo",
+    "source": "manifold",
+    "background": "Below are some examples (but by no means exhaustive) that would qualify as collapse:\n\nNo withdrawals for 14 days\n\nBNB market cap below $1B (unless it is phased out as planned by the company) for >14 days\n\nFiles for bankruptcy",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/MarcusAbramovitch/will-binance-collapse-before-the-en.",
+    "url": "https://manifold.markets/MarcusAbramovitch/will-binance-collapse-before-the-en",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-31"
+  },
+  {
+    "question": "Will TSLA reach >$ 275 before 8pm EST on 8/8?",
+    "id": "xv86CDBe0flxF2epvO3f",
+    "source": "manifold",
+    "background": "Clarification:\n\nMarket resolves if TSLA reaches >$275 ($275.01+) at any point before 8pm EST on 8/8 - this includes After Market but not Overnight trading.\n\nFor After Market trading information: After-Hours Trading: How It Works, Advantages, Risks, Example (investopedia.com)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/MolbyDick/will-tesla-stock-reach-275-by-88-of-e836ca33649e.",
+    "url": "https://manifold.markets/MolbyDick/will-tesla-stock-reach-275-by-88-of-e836ca33649e",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-08-09"
+  },
+  {
+    "question": "Will AI replace over 50 million jobs by end of 2024?",
+    "id": "YleFhm7mAbAVzTW1dUmI",
+    "source": "manifold",
+    "background": "If an authoritative international labor or employment agency (like the International Labour Organization or the U.S. Bureau of Labor Statistics) releases a report stating that generative AI has replaced more than 50 million jobs globally by 11:59 PM Coordinated Universal Time (UTC) on December 31, 2024, the prediction will resolve as 'yes'. Any other outcome means the prediction is resolved as 'no'. Resolution is based on reports from these organizations.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/getby/will-ai-replace-over-50-million-job.",
+    "url": "https://manifold.markets/getby/will-ai-replace-over-50-million-job",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-01"
+  },
+  {
+    "question": "Will Hezbollah directly engage in combat operations against Israel?",
+    "id": "l9dhLkCSjs5m0baSCsgf",
+    "source": "manifold",
+    "background": "\"Direct combat operations\" means a sustained combat effort; special operations don't count.\n\nWill resolve at end of current conflict, or extend if conflict doesn't end by time of closure.\n\nWill resolve if confirmed by reliable media source (Reuters, BBC, the AP, etc.)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/NADZOR/will-hezbollah-directly-engage-in-c.",
+    "url": "https://manifold.markets/NADZOR/will-hezbollah-directly-engage-in-c",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-10-03"
+  },
+  {
+    "question": "Will there be a ceasefire in Gaza by Eoy 2024?",
+    "id": "5PBiCM7mofSHR55eoXkP",
+    "source": "manifold",
+    "background": "I will resolve this if a multiple month (minimum 3) ceasefire happens before the end of 2024",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/grofigaszadosijv/will-there-be-a-ceasefire-in-gaza-b.",
+    "url": "https://manifold.markets/grofigaszadosijv/will-there-be-a-ceasefire-in-gaza-b",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-18"
+  },
+  {
+    "question": "Will Zubear Abdi face legal trouble for sharing explicit photos of Taylor Swift generated by AI?",
+    "id": "AM1axfn3jAan7o8XYSfW",
+    "source": "manifold",
+    "background": "Legal troubles generally refer to situations where an individual or entity faces legal challenges or actions due to alleged violations of laws or regulations. This can encompass a variety of scenarios, including:\n\n1. Criminal Charges\n\n2. Civil Lawsuits\n\n3. Regulatory Actions\n\n4. Investigations\n\n5. Legal Notices and Cease-and-Desist Letters\n\n6. Arbitration and Mediation\n\nIn each of these scenarios, the individual or entity typically needs to engage with the legal system, which can involve hiring legal representation, responding to legal actions, appearing in court, or complying with legal decisions and judgments.\n\nWill resolve by the end of 2024 based on information available from credible news sources. ",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/10thOfficial/will-zubear-abdi-face-legal-trouble.",
+    "url": "https://manifold.markets/10thOfficial/will-zubear-abdi-face-legal-trouble",
+    "resolved_to": 0.0,
+    "resolution_date": "2024-12-31"
+  },
+  {
+    "question": "Will OpenAI be the target and victim of a major cyber attack in 2024?",
+    "id": "JNC9AKTKeNrRJ4QYzB9I",
+    "source": "manifold",
+    "background": "Includes major DDOS attacks.\n\nResolves YES if:\n\nBefore January 1, 2025: Evidence emerges that OpenAI was the intended target and victim of a successful and significant cyber attack. \"Successful\" and \"significant\" as determined by relevant authorities and general consensus. DDOS attacks only count if they successfully create a near total outage that lasts for at least 12 hours. Market will resolve when relevant authorities have reached conclusions on any evidence that emerged before 2025.\n\nResolves NO otherwise.\n\nI will not be participating in this market.\n\nEdit 01/01/2024: Added \"and victim\" to title to align with description and resolution criteria.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Pykess/will-openai-be-the-target-of-a-majo.",
+    "url": "https://manifold.markets/Pykess/will-openai-be-the-target-of-a-majo",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-01-02"
+  },
+  {
+    "question": "Will the average global temperature in 2024 exceed 2023?",
+    "id": "TPkEjiNb1wVCIGFnPcDD",
+    "source": "manifold",
+    "background": "2023 is trending to be the hottest year on record.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/SteveRabin/will-the-average-global-temperature.",
+    "url": "https://manifold.markets/SteveRabin/will-the-average-global-temperature",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-01-10"
+  },
+  {
+    "question": "Will any event of the Paris 2024 Olympic Games be postponed or cancelled due to the water quality of the Seine?",
+    "id": "KCFbp1TH0RYN4j5zYdmh",
+    "source": "manifold",
+    "background": "It also counts as YES if an event is moved to a venue other than the Seine river ahead of time because of water quality concerns.\n\nBackground:\n\nSeine River events scrapped again, renewing doubts over Paris Olympics plan\n\nParis Olympics promises Seine clean-up after pollution spoils triathlon | Financial Times",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Pob/will-any-event-of-the-paris-2024-ol.",
+    "url": "https://manifold.markets/Pob/will-any-event-of-the-paris-2024-ol",
+    "resolved_to": 1.0,
+    "resolution_date": "2024-07-30"
+  },
+  {
+    "question": "Will The Russia-Ukraine War End Within 90 days of Trump Taking Office? [see description]",
+    "id": "dcgscdEUc0",
+    "source": "manifold",
+    "background": "This market resolves YES if:\n\nAn armistice, ceasefire, or negotiated settlement is announced by both Ukraine and Russia regarding the ongoing war in Ukraine at any point between the Associated Press calling the election for Donald Trump, and April 19, 2025, 11:59 PM ET.\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries. The specific date that such an agreement will take effect is not relevant to the resolution of this market. The only requirement is that the agreement must be announced within this market's specified timeframe.\n\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries.\n\nSee also Polymarket's market.\n\nSee also:\n\n(https://manifold.markets/embed/Bayesian/what-will-happen-during-trumps-seco?play=true)(https://manifold.markets/embed/Bayesian/will-trump-end-the-israelhamas-war?play=true)Update 2025-07-01 (PST) (AI summary of creator comment): - Comprehensive Ceasefire: A ceasefire that means 'nobody can fight at all for the next week' would count as a temporary end to the conflict.\n\nLocalized Ceasefire: A ceasefire that means 'no fighting in this little area but everywhere else is fine' would not count.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with.",
+    "url": "https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-20"
+  },
+  {
+    "question": "Will human narration for audiobooks become mostly unnecessary before 2026?",
+    "id": "28RJ23fKDFMr4Mo8YQ4f",
+    "source": "manifold",
+    "background": "[tweet]",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/FranklinBaldo/will-human-narration-for-audiobooks.",
+    "url": "https://manifold.markets/FranklinBaldo/will-human-narration-for-audiobooks",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-03-21"
+  },
+  {
+    "question": "Was synthetic video data generated and used in training Sora?",
+    "id": "AaZr2KnQYHGRVHzvKoHa",
+    "source": "manifold",
+    "background": "Was synthetic video data generated for training Sora, eg large scale clips from Unreal Engine as suggested by this tweet. It does not count if there happens to be synthetic data in the training data. This will resolve yes if the consensus is large scale synthetic data generation was used for Sora.\n\nIf there is no clear consensus, I will resolve it based on my judgement using any material released by OpenAI.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/m2/was-synthetic-data-generated-and-us.",
+    "url": "https://manifold.markets/m2/was-synthetic-data-generated-and-us",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-15"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie make over a billion dollars at the worldwide box office?",
+    "id": "AtLFLzDlSERmVcSdUapy",
+    "source": "manifold",
+    "background": "Not counting re-releases. Will push back resolve date if necessary.\n\nEdit: if by some chance this movie doesn't get a wide release in theaters... I will resolve N/A.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  },
+  {
+    "question": "Will GTA VI get delayed again?",
+    "id": "QVCzHBisAcKNfHYEAB4G",
+    "source": "manifold",
+    "background": "GTA",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/LiquidIsPerson3/will-gta-vi-get-delayed-again.",
+    "url": "https://manifold.markets/LiquidIsPerson3/will-gta-vi-get-delayed-again",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-04"
+  },
+  {
+    "question": "Will there be consensus on who Dwarkesh's \"biggest guest yet\" was, before Q3 2025? (Resolves to poll)",
+    "id": "sis542tw6o",
+    "source": "manifold",
+    "background": "For context, see this tweet.\n\nWithin the next few months, I'm going to be releasing an episode with by far my biggest guest yet.\n\nIf you're interesting in sponsoring it, shoot me an email at sponsor@dwarkeshpatel.com\n\nSee also @/Ziddletwix/will-manifold-agree-that-dwarkeshs \n\nI think it's not clear that these markets will be unambiguous and satisfactorily resolved, therefore I created this one.\n\nResolution\n\n\u200c\nA few separate possibilities to resolution here\n\n1) See: Who is Dwarkesh's upcoming \"biggest guest yet\"? Once that market resolves, I will close this one and run a poll for one week, using the [NAME] that it resolved to.\n\nThe phrasing will be something along the lines of \"Do you agree that [NAME] was the person Dwarkesh alluded  to with the 'by far the biggest guest yet' tweet?\", with options \"Agree\" and \"Disagree\".\n\nIf \"Agree\" has \u226580% of votes, this market resolves YES. If it has less this market resolves to NO.\n\n2) The above market does not resolve before Q2 2025, but one alternative has traded at \u226580% consistently over a week (brief dents below 80% don't matter) --> Resolves to YES \n\n3) Toward the end of Q2 2025, neither of the above has happened. I run a poll similar to what's described above, with my best guess at a name. Resolves to YES if \u226580% \"Agree\" on the suggested name.\n\n4) Dwarkesh unambiguously confirms who the person referred to is/was, this resolves to YES immediately.\n\n5) Unaccounted for by me, but very reasonable scenarios, that I think should resolve to YES or NO, outside of the above.\n\n\nFeel free to suggest improvements to these criteria and conditions, or ask for clarifications.\nI will not trade in this market, to better allow for fair resolution.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/HenriThunberg/will-there-be-consensus-on-who-dwar.",
+    "url": "https://manifold.markets/HenriThunberg/will-there-be-consensus-on-who-dwar",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-07-01"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Will at least three of Trump's cabinet nominees fail?",
+    "id": "Sqnu2sPyuC",
+    "source": "manifold",
+    "background": "This market will settle as YES if at least three individuals that Trump nominates for cabinet positions that must be confirmed by the Senate are either withdrawn or voted down in the Senate. Cabinet officials refers to the 15 heads of government agencies, along with cabinet-level officials, which for the purposes of this market includes the Administrator of the EPA, Director of National Intelligence, Director of OMB, Director of CIA, United States Trade Representative, Ambassador to the UN, Chair of the Council of Economic Advisers, Administrator of the SBA, and Director of OSTP. \n\nA nomination occurs as soon as President Trump announces an intention to nominate someone. No other step is necessary to be taken. No official step must be taken to withdraw a nominee either. Credible reporting that the administration will not longer be pursuing the nomination is enough. \n\nThis market will settle as NO as soon as all the relevant positions are confirmed, or if the conditions of YES have not been met by March 31, 2025.  \n\nThe nominees that fail need not be all nominated for different positions. If, for example, Trump has three Attorney General nominees that fail, this market will resolve as YES. \n\nIf Donald Trump does not become president or stops being president, this market resolves according to what happens to the nominees of whoever happens to be president during the relevant time period. The nominees of two or more people serving as president will be counted together. If, for example, Trump appoints an AG who is withdrawn and then Vance becomes president and two of his nominees are withdrawn, this market will settle as YES. ",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/will-at-least-three-of-trumps-cabin.",
+    "url": "https://manifold.markets/RichardHanania/will-at-least-three-of-trumps-cabin",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-01"
+  },
+  {
+    "question": "Will Trump & Elon cut >250,000 government employees in 2025?",
+    "id": "llC0sSgzg8",
+    "source": "manifold",
+    "background": "Linked to this Kalshi question:\n\nIf there are more than 250000 federal employees no longer working relative to the January 2025 employee count before Jan 2026, then the market resolves to Yes. Outcome verified from FRED.\n\nNote the resolution criteria\u2014what matters is the change in the count of federal employees, not whether we can confirm Trump and/or Elon directly fired them. For reference, the specific chart Kalshi links to appears to be this one.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme.",
+    "url": "https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-12-17"
+  },
+  {
+    "question": "Will Trump publicly disparage Musk within a year of the election?",
+    "id": "h2h0QzCqqC",
+    "source": "manifold",
+    "background": "Within a year of the election, will Trump publicly disparage Elon Musk? \n\nThis could be for any reason, provoked or otherwise. Things like belittling nicknames and personal insults would count, or \"I never liked him anyway\" type statements.\n\nAs this might be somewhat subjective, I won't trade.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk.",
+    "url": "https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-06-05"
+  },
+  {
+    "question": "Will Saudi Arabia abandon (or vastly scale back) the NEOM linear city project by 2028?",
+    "id": "QtxO4jGNyhDzq5s3NrcG",
+    "source": "manifold",
+    "background": "Abandoned in this case will mean:\n\nExplicitly cancelled \n\nShelved indefinitely (like Jeddah Tower) with no measurable progress in design or construction \n\nScaled back to something vastly more modest (at my disgression)\n\nI will try to judge these criteria as objectively as possible, I do have the personal opinion the project is unrealistic though.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom.",
+    "url": "https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-30"
+  },
+  {
+    "question": "Will Bayern Munich win the 2024/25 Bundesliga?",
+    "id": "JXCBlhekZVLlHS1pmX0b",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/UniversalFC/will-bayern-munich-win-the-202425-b.",
+    "url": "https://manifold.markets/UniversalFC/will-bayern-munich-win-the-202425-b",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-05"
+  },
+  {
+    "question": "Will The Russia-Ukraine War End Within 90 days of Trump Taking Office? [see description]",
+    "id": "dcgscdEUc0",
+    "source": "manifold",
+    "background": "This market resolves YES if:\n\nAn armistice, ceasefire, or negotiated settlement is announced by both Ukraine and Russia regarding the ongoing war in Ukraine at any point between the Associated Press calling the election for Donald Trump, and April 19, 2025, 11:59 PM ET.\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries. The specific date that such an agreement will take effect is not relevant to the resolution of this market. The only requirement is that the agreement must be announced within this market's specified timeframe.\n\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries.\n\nSee also Polymarket's market.\n\nSee also:\n\n(https://manifold.markets/embed/Bayesian/what-will-happen-during-trumps-seco?play=true)(https://manifold.markets/embed/Bayesian/will-trump-end-the-israelhamas-war?play=true)Update 2025-07-01 (PST) (AI summary of creator comment): - Comprehensive Ceasefire: A ceasefire that means 'nobody can fight at all for the next week' would count as a temporary end to the conflict.\n\nLocalized Ceasefire: A ceasefire that means 'no fighting in this little area but everywhere else is fine' would not count.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with.",
+    "url": "https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-20"
+  },
+  {
+    "question": "Will an AI get gold on any International Math Olympiad by the end of 2025?",
+    "id": "BcJbQTDX1rdmaLYGKUOz",
+    "source": "manifold",
+    "background": "In Feb 2022, Paul Christiano wrote: Eliezer and I publicly stated some predictions about AI performance on the IMO by 2025.... My final prediction (after significantly revising my guesses after looking up IMO questions and medal thresholds) was:\n\nI'd put 4% on \"For the 2022, 2023, 2024, or 2025 IMO an AI built before the IMO is able to solve the single hardest problem\" where \"hardest problem\" = \"usually problem #6, but use problem #3 instead if either: (i) problem 6 is geo or (ii) problem 3 is combinatorics and problem 6 is algebra.\" (Would prefer just pick the hardest problem after seeing the test but seems better to commit to a procedure.)\n\nMaybe I'll go 8% on \"gets gold\" instead of \"solves hardest problem.\"\n\nEliezer spent less time revising his prediction, but said (earlier in the discussion):\n\nMy probability is at least 16% [on the IMO grand challenge falling], though I'd have to think more and Look into Things, and maybe ask for such sad little metrics as are available before I was confident saying how much more. \u00a0Paul?\n\nEDIT: \u00a0I see they want to demand that the AI be open-sourced publicly before the first day of the IMO, which unfortunately sounds like the sort of foolish little real-world obstacle which can prevent a proposition like this from being judged true even where the technical capability exists. \u00a0I'll stand by a >16% probability of the technical capability existing by end of 2025\n\nSo I think we have Paul at <8%, Eliezer at >16% for AI made before the IMO is able to get a gold (under time controls etc. of grand challenge) in one of 2022-2025.\n\nResolves to YES if either Eliezer or Paul acknowledge that an AI has succeeded at this task.\n\nRelated market: https://manifold.markets/MatthewBarnett/will-a-machine-learning-model-score-f0d93ee0119b\n\n\nUpdate: As noted by Paul, the qualifying years for IMO completion are 2023, 2024, and 2025.\n\nUpdate 2024-06-21: Description formatting\n\nUpdate 2024-07-25: Changed title from \"by 2025\" to \"by the end of 2025\" for clarity",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Austin/will-an-ai-get-gold-on-any-internat.",
+    "url": "https://manifold.markets/Austin/will-an-ai-get-gold-on-any-internat",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-07-21"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie make over a billion dollars at the worldwide box office?",
+    "id": "AtLFLzDlSERmVcSdUapy",
+    "source": "manifold",
+    "background": "Not counting re-releases. Will push back resolve date if necessary.\n\nEdit: if by some chance this movie doesn't get a wide release in theaters... I will resolve N/A.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  },
+  {
+    "question": "Will Spider-Man: Beyond the Spider-Verse release before the end of 2025?",
+    "id": "hkmwaaZrisxgrs5Q3zGz",
+    "source": "manifold",
+    "background": "Spider-Man: Beyond the Spider-Verse was originally scheduled for March 29, 2024 but has since been delayed.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-3ca4624d82d2.",
+    "url": "https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-3ca4624d82d2",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-10-23"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie get a 7.0 or higher on IMDB?",
+    "id": "8WoZ7HL8NtCEIvdQT1FA",
+    "source": "manifold",
+    "background": "Resolves 2 weeks after wide theatrical release in US. Do NOT spam reviews in order to manipulate this market one way or the other. That is NOT a nice thing to do.\n\nSee also for 6.5:\n\nhttps://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g-677bcc0666ba",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-g",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-19"
+  },
+  {
+    "question": "Will at least three of Trump's cabinet nominees fail?",
+    "id": "Sqnu2sPyuC",
+    "source": "manifold",
+    "background": "This market will settle as YES if at least three individuals that Trump nominates for cabinet positions that must be confirmed by the Senate are either withdrawn or voted down in the Senate. Cabinet officials refers to the 15 heads of government agencies, along with cabinet-level officials, which for the purposes of this market includes the Administrator of the EPA, Director of National Intelligence, Director of OMB, Director of CIA, United States Trade Representative, Ambassador to the UN, Chair of the Council of Economic Advisers, Administrator of the SBA, and Director of OSTP. \n\nA nomination occurs as soon as President Trump announces an intention to nominate someone. No other step is necessary to be taken. No official step must be taken to withdraw a nominee either. Credible reporting that the administration will not longer be pursuing the nomination is enough. \n\nThis market will settle as NO as soon as all the relevant positions are confirmed, or if the conditions of YES have not been met by March 31, 2025.  \n\nThe nominees that fail need not be all nominated for different positions. If, for example, Trump has three Attorney General nominees that fail, this market will resolve as YES. \n\nIf Donald Trump does not become president or stops being president, this market resolves according to what happens to the nominees of whoever happens to be president during the relevant time period. The nominees of two or more people serving as president will be counted together. If, for example, Trump appoints an AG who is withdrawn and then Vance becomes president and two of his nominees are withdrawn, this market will settle as YES. ",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/will-at-least-three-of-trumps-cabin.",
+    "url": "https://manifold.markets/RichardHanania/will-at-least-three-of-trumps-cabin",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-01"
+  },
+  {
+    "question": "Will Pope Francis cease to be pope before the end of 2025?",
+    "id": "Fmq1kCc4ecrMwZYN4QZF",
+    "source": "manifold",
+    "background": "This question resolves YES if Pope Francis (Jorge Mario Bergoglio) ceases to be pope of the Roman Catholic Church for any reason before the end of 2025.\n\nSee also:\n\n(https://manifold.markets/embed/cash/will-pope-francis-cease-to-be-pope)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/cash/will-pope-francis-cease-to-be-pope-623916036ab8.",
+    "url": "https://manifold.markets/cash/will-pope-francis-cease-to-be-pope-623916036ab8",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-04-21"
+  },
+  {
+    "question": "Will Trump publicly disparage Musk within a year of the election?",
+    "id": "h2h0QzCqqC",
+    "source": "manifold",
+    "background": "Within a year of the election, will Trump publicly disparage Elon Musk? \n\nThis could be for any reason, provoked or otherwise. Things like belittling nicknames and personal insults would count, or \"I never liked him anyway\" type statements.\n\nAs this might be somewhat subjective, I won't trade.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk.",
+    "url": "https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-06-05"
+  },
+  {
+    "question": "Trump impose large tariffs in first year?",
+    "id": "9t61v9e7x4",
+    "source": "manifold",
+    "background": "Donald Trump has promised a 10% tariff across the board for all goods entering the United States if elected. This market will settle as YES if Donald Trump gets elected and in any one quarter of 2025, the US weighted average tariff is at least 6%. For the last quarter we have data at this time, second quarter of 2024, the number was 2.4%. It was at 3.5% at its highest level of the Trump presidency.\n\nData is sourced from the Federal Reserve Economic Data website (link below). This market will settle as soon as Callum Williams, senior economics writer at The Economist, has calculated the number has crossed the 6% threshold for any quarter in 2025, or it hasn\u2019t for any of the quarters. If, when he does his calculations for the fourth quarter of 2025, the 6% threshold has not been met, this market will then settle NO. This market will settle as YES if either an initial estimate or any revision for any of the first three quarters of 2025 crosses the 6% threshold while the market is open. The fourth quarter number will be based on initial data and the market will close after that data is available at the latest. \n\nIf Donald Trump loses the election, this market will settle as N/A. If Donald Trump wins the election but a different president takes office at any point, this market will settle according to the same rules based on the US weighted tariff average for each quarter. \n\nIf Callum Williams is unavailable to conduct the analysis, a suitable replacement will be found.\n\nSee data here: https://fred.stlouisfed.org/graph/?g=1wn5e\n\nCallum Williams on X: https://x.com/econcallum\u00a0\u00a0",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first.",
+    "url": "https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Will Napoli win the 2024/25 Serie A?",
+    "id": "pNdoqfEP3Eet1vIc44dj",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/UniversalFC/will-napoli-win-the-202425-serie-a.",
+    "url": "https://manifold.markets/UniversalFC/will-napoli-win-the-202425-serie-a",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-25"
+  },
+  {
+    "question": "Will Manchester City win the 2024/25 Premier League?",
+    "id": "YVmNKSXBBxo2I3DXL3ge",
+    "source": "manifold",
+    "background": "Will resolve based on the Premier League's official announcement of which team is the winner of the 2024/25 season.\n\nhttps://www.premierleague.com/",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/10thOfficial/will-manchester-city-win-the-202425.",
+    "url": "https://manifold.markets/10thOfficial/will-manchester-city-win-the-202425",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-04"
+  },
+  {
+    "question": "Will Bayern Munich win the 2024/25 Bundesliga?",
+    "id": "JXCBlhekZVLlHS1pmX0b",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/UniversalFC/will-bayern-munich-win-the-202425-b.",
+    "url": "https://manifold.markets/UniversalFC/will-bayern-munich-win-the-202425-b",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-05"
+  },
+  {
+    "question": "Boston Celtics win the 2025 NBA Championship",
+    "id": "yZpALnnSSy",
+    "source": "manifold",
+    "background": "Will the Boston Celtics win the 2025 NBA Championship? \n\nMarket resolves YES if the Celtics win the 2025 NBA Finals, NO otherwise. \n\nResolution will be based on official NBA results.\n\nI will likely be on this question. \n\nCurrent betting odds from various sources:\n\n+260 (BetMassachusetts)\n\n+255 (DraftKings)\n\n+225 (Odds Shark)\n\nSources: https://www.betmassachusetts.com/odds/nba/boston-celtics https://www.oddsshark.com/nba/championship-odds\n\n[link preview]",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/kenmichaels/boston-celtics-win-the-2025-nba-cha.",
+    "url": "https://manifold.markets/kenmichaels/boston-celtics-win-the-2025-nba-cha",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-05-17"
+  },
+  {
+    "question": "Russia-Ukraine Ceasefire in Trump's First 90 Days?",
+    "id": "dcgscdEUc0",
+    "source": "manifold",
+    "background": "This market resolves YES if:\n\nAn armistice, ceasefire, or negotiated settlement is announced by both Ukraine and Russia regarding the ongoing war in Ukraine at any point between the Associated Press calling the election for Donald Trump, and April 19, 2025, 11:59 PM ET.\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries. The specific date that such an agreement will take effect is not relevant to the resolution of this market. The only requirement is that the agreement must be announced within this market's specified timeframe.\n\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries.\n\nSee also Polymarket's market.\n\nSee also:\n\n(https://manifold.markets/embed/Bayesian/what-will-happen-during-trumps-seco?play=true)(https://manifold.markets/embed/Bayesian/will-trump-end-the-israelhamas-war?play=true)Update 2025-07-01 (PST) (AI summary of creator comment): - Comprehensive Ceasefire: A ceasefire that means 'nobody can fight at all for the next week' would count as a temporary end to the conflict.\n\nLocalized Ceasefire: A ceasefire that means 'no fighting in this little area but everywhere else is fine' would not count.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with.",
+    "url": "https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-20"
+  },
+  {
+    "question": "Will there be a language model called GPT-5, released by OpenAI, this decade? ",
+    "id": "eZptlPJe8gq9rb0Gia6t",
+    "source": "manifold",
+    "background": "Given a lot of political pressures, i think it's somewhat plausible for there not to be any model called GPT-5, that openAI just releases upgraded ChatGPTs. Maybe they work only on multimodal models from now on and never release any pure large language model again, etc. and discontinue the GPT series.\n\nWill there be a large language model titled officially as GPT-5 released by OpenAI? It can be a multimodal model called GPT-5, or it can be a language only model called GPT-5. The question is whether they will discontinue this particular series and do something different, as ex: Gobi, arrakis etc suggest.\n\nIn case OpenAI splits up etc, i will make changes at the time to reflect the resolution criteria better.\n\ni think it's less likely that they release it named as a GPT-5 if they're moving away from pure language models, but if they do release a multimodel GPT-5, then it counts\n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/_deleted_/will-there-be-a-language-model-by-o.",
+    "url": "https://manifold.markets/_deleted_/will-there-be-a-language-model-by-o",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-07"
+  },
+  {
+    "question": "Will there be consensus on who Dwarkesh's \"biggest guest yet\" was, before Q3 2025? (Resolves to poll)",
+    "id": "sis542tw6o",
+    "source": "manifold",
+    "background": "For context, see this tweet.\n\nWithin the next few months, I'm going to be releasing an episode with by far my biggest guest yet.\n\nIf you're interesting in sponsoring it, shoot me an email at sponsor@dwarkeshpatel.com\n\nSee also @/Ziddletwix/will-manifold-agree-that-dwarkeshs \n\nI think it's not clear that these markets will be unambiguous and satisfactorily resolved, therefore I created this one.\n\nResolution\n\n\u200c\nA few separate possibilities to resolution here\n\n1) See: Who is Dwarkesh's upcoming \"biggest guest yet\"? Once that market resolves, I will close this one and run a poll for one week, using the [NAME] that it resolved to.\n\nThe phrasing will be something along the lines of \"Do you agree that [NAME] was the person Dwarkesh alluded  to with the 'by far the biggest guest yet' tweet?\", with options \"Agree\" and \"Disagree\".\n\nIf \"Agree\" has \u226580% of votes, this market resolves YES. If it has less this market resolves to NO.\n\n2) The above market does not resolve before Q2 2025, but one alternative has traded at \u226580% consistently over a week (brief dents below 80% don't matter) --> Resolves to YES \n\n3) Toward the end of Q2 2025, neither of the above has happened. I run a poll similar to what's described above, with my best guess at a name. Resolves to YES if \u226580% \"Agree\" on the suggested name.\n\n4) Dwarkesh unambiguously confirms who the person referred to is/was, this resolves to YES immediately.\n\n5) Unaccounted for by me, but very reasonable scenarios, that I think should resolve to YES or NO, outside of the above.\n\n\nFeel free to suggest improvements to these criteria and conditions, or ask for clarifications.\nI will not trade in this market, to better allow for fair resolution.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/HenriThunberg/will-there-be-consensus-on-who-dwar.",
+    "url": "https://manifold.markets/HenriThunberg/will-there-be-consensus-on-who-dwar",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-07-01"
+  },
+  {
+    "question": "Will President Zelenskyy apologize to President Trump by the end of March 2025?",
+    "id": "AppIq82IcA",
+    "source": "manifold",
+    "background": "To resolve YES, he must be contrite and use the words \"I'm sorry\", \"I apologize\" or one of the phrases listed below in reference to his performance in the Oval Office on February 28th. Some variation in wording is allowed and it is also admissible if Trump says that Zelenskyy had apologized for the incident in private.\n\nCasual / Everyday Situations\n\nThat was my mistake.\n\nI messed up.\n\nI take full responsibility.\n\nI hope you can forgive me.\n\nI feel terrible about this.\n\nThat was wrong of me.\n\nFormal / Professional Situations\n\nI regret the mistake.\n\nI take full accountability.\n\nI sincerely regret this oversight.\n\nPlease allow me to make things right.\n\nIt was an error on my part.\n\nI deeply regret any inconvenience caused.\n\nI understand the impact of my actions.\n\nMore Personal / Emotional Situations\n\nI didn\u2019t intend to hurt you.\n\nI was wrong, and I see that now.\n\nI should have done better.\n\nIt was never my intention to cause harm.\n\nI hope to earn back your trust.\n\nThat was my mistake.\n\nI messed up.\n\nI take full responsibility.\n\nI hope you can forgive me.\n\nI feel terrible about this.\n\nThat was wrong of me.\n\nFormal / Professional Situations\n\nI regret the mistake.\n\nI take full accountability.\n\nI sincerely regret this oversight.\n\nPlease allow me to make things right.\n\nIt was an error on my part.\n\nI deeply regret any inconvenience caused.\n\nI understand the impact of my actions.\n\nMore Personal / Emotional Situations\n\nI was wrong, and I see that now.\n\nI should have done better.\n\nIt was never my intention to cause harm.\n\nI hope to earn back your trust.\n\n[image]Update 2025-03-04 (PST) (AI summary of creator comment): Clarification:\n\nAn acceptable apology must include an admission of culpability.\n\nPhrases that only express regret (for example, \"it is regrettable\") without accepting responsibility do not meet the resolution criteria.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/skibidist/will-president-zelenskyy-apologize.",
+    "url": "https://manifold.markets/skibidist/will-president-zelenskyy-apologize",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-01"
+  },
+  {
+    "question": "Trump impose large tariffs in first year?",
+    "id": "9t61v9e7x4",
+    "source": "manifold",
+    "background": "Donald Trump has promised a 10% tariff across the board for all goods entering the United States if elected. This market will settle as YES if Donald Trump gets elected and in any one quarter of 2025, the US weighted average tariff is at least 6%. For the last quarter we have data at this time, second quarter of 2024, the number was 2.4%. It was at 3.5% at its highest level of the Trump presidency.\n\nData is sourced from the Federal Reserve Economic Data website (link below). This market will settle as soon as Callum Williams, senior economics writer at The Economist, has calculated the number has crossed the 6% threshold for any quarter in 2025, or it hasn\u2019t for any of the quarters. If, when he does his calculations for the fourth quarter of 2025, the 6% threshold has not been met, this market will then settle NO. This market will settle as YES if either an initial estimate or any revision for any of the first three quarters of 2025 crosses the 6% threshold while the market is open. The fourth quarter number will be based on initial data and the market will close after that data is available at the latest. \n\nIf Donald Trump loses the election, this market will settle as N/A. If Donald Trump wins the election but a different president takes office at any point, this market will settle according to the same rules based on the US weighted tariff average for each quarter. \n\nIf Callum Williams is unavailable to conduct the analysis, a suitable replacement will be found.\n\nSee data here: https://fred.stlouisfed.org/graph/?g=1wn5e\n\nCallum Williams on X: https://x.com/econcallum\u00a0\u00a0",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first.",
+    "url": "https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Will Trump golf for at least 25% of his first 100 days?",
+    "id": "9LUOtIpQ5t",
+    "source": "manifold",
+    "background": "Resolution source: https://trumpgolftrack.com/\n\nDetails: \n\nResolves YES if \"Time Spent Golfing\" is at least 25% after his first 100 days, and NO if \"Time Spent Golfing\" is <25%.\n\nI plan to resolve following the linked webpage, and I make no promises about (a) the comprehensiveness/rigor of their sourcing & (b) the definitions they use.\n\nHowever, if the site seems slow to update, I will wait a few days to resolve & will do my best to estimate what the true Day 100 percentage would have been based on their tally.\n\nE.g. if it says \"24%\" on the 100th day but early the next morning they update the site and include that day as a golf day, it could still resolve YES, it's clear that the intended tally was 25%.\n\nBut if e.g. they \"missed a day\" because of their sourcing, that doesn't matter, it resolves based on their tally.\n\nOther exception: if it's clear that the site is essentially abandoned (e.g. they're not making any sort of good faith effort to keep the tally updated), then this will N/A.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-trump-golf-for-at-least-25-of.",
+    "url": "https://manifold.markets/Ziddletwix/will-trump-golf-for-at-least-25-of",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-01"
+  },
+  {
+    "question": "Will an NBA player score more than 81 points in a game before the end of the 2024-25 NBA season?",
+    "id": "gqDRCKDkBri7KXmFuOXF",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AlexanderMiller/will-an-nba-player-score-more-than.",
+    "url": "https://manifold.markets/AlexanderMiller/will-an-nba-player-score-more-than",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-06-26"
+  },
+  {
+    "question": "Russia-Ukraine Ceasefire in Trump's First 90 Days?",
+    "id": "dcgscdEUc0",
+    "source": "manifold",
+    "background": "This market resolves YES if:\n\nAn armistice, ceasefire, or negotiated settlement is announced by both Ukraine and Russia regarding the ongoing war in Ukraine at any point between the Associated Press calling the election for Donald Trump, and April 19, 2025, 11:59 PM ET.\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries. The specific date that such an agreement will take effect is not relevant to the resolution of this market. The only requirement is that the agreement must be announced within this market's specified timeframe.\n\n\nTo count toward the resolution of this market, an armistice, ceasefire, and/or negotiated settlement must be indicative of at least the temporary end of the Ukraine-Russia military conflict, must pertain to all theaters of military conflict between the two countries, and be declared through official channels by both countries.\n\nSee also Polymarket's market.\n\nSee also:\n\n(https://manifold.markets/embed/Bayesian/what-will-happen-during-trumps-seco?play=true)(https://manifold.markets/embed/Bayesian/will-trump-end-the-israelhamas-war?play=true)Update 2025-07-01 (PST) (AI summary of creator comment): - Comprehensive Ceasefire: A ceasefire that means 'nobody can fight at all for the next week' would count as a temporary end to the conflict.\n\nLocalized Ceasefire: A ceasefire that means 'no fighting in this little area but everywhere else is fine' would not count.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with.",
+    "url": "https://manifold.markets/Bayesian/will-trump-end-the-ukraine-war-with",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-20"
+  },
+  {
+    "question": "Will Trump publicly disparage Musk within a year of the election?",
+    "id": "h2h0QzCqqC",
+    "source": "manifold",
+    "background": "Within a year of the election, will Trump publicly disparage Elon Musk? \n\nThis could be for any reason, provoked or otherwise. Things like belittling nicknames and personal insults would count, or \"I never liked him anyway\" type statements.\n\nAs this might be somewhat subjective, I won't trade.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk.",
+    "url": "https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-06-05"
+  },
+  {
+    "question": "Trump impose large tariffs in first year?",
+    "id": "9t61v9e7x4",
+    "source": "manifold",
+    "background": "Donald Trump has promised a 10% tariff across the board for all goods entering the United States if elected. This market will settle as YES if Donald Trump gets elected and in any one quarter of 2025, the US weighted average tariff is at least 6%. For the last quarter we have data at this time, second quarter of 2024, the number was 2.4%. It was at 3.5% at its highest level of the Trump presidency.\n\nData is sourced from the Federal Reserve Economic Data website (link below). This market will settle as soon as Callum Williams, senior economics writer at The Economist, has calculated the number has crossed the 6% threshold for any quarter in 2025, or it hasn\u2019t for any of the quarters. If, when he does his calculations for the fourth quarter of 2025, the 6% threshold has not been met, this market will then settle NO. This market will settle as YES if either an initial estimate or any revision for any of the first three quarters of 2025 crosses the 6% threshold while the market is open. The fourth quarter number will be based on initial data and the market will close after that data is available at the latest. \n\nIf Donald Trump loses the election, this market will settle as N/A. If Donald Trump wins the election but a different president takes office at any point, this market will settle according to the same rules based on the US weighted tariff average for each quarter. \n\nIf Callum Williams is unavailable to conduct the analysis, a suitable replacement will be found.\n\nSee data here: https://fred.stlouisfed.org/graph/?g=1wn5e\n\nCallum Williams on X: https://x.com/econcallum\u00a0\u00a0",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first.",
+    "url": "https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Will Tadej Pogacar win the 2025 Tour de France?",
+    "id": "Ctl0Ihc6Cz",
+    "source": "manifold",
+    "background": "Resolves YES if Tadej Pogacar wins the general classification at the end of the 2025 Tour de France. Resolves NO otherwise, including if he does not start the Tour or does not finish.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/egroj/will-tadej-pogacar-win-the-2025-tou.",
+    "url": "https://manifold.markets/egroj/will-tadej-pogacar-win-the-2025-tou",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-07-27"
+  },
+  {
+    "question": "OpenAI will launch an audio only smart home device in the next twelve months",
+    "id": "RtqWahA53xW6RuLCTD2k",
+    "source": "manifold",
+    "background": "Inspired by this tweet: \n\n[tweet]Resolves to YES if OpenAI releases an audio only smart device before May 14, 2025. \n\nI will resolve to true if it\u2019s either a device manufactured by OpenAI or if a third-party releases but it runs OpenAI software exclusively.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/ColinD/openai-will-launch-an-audio-only-sm.",
+    "url": "https://manifold.markets/ColinD/openai-will-launch-an-audio-only-sm",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-05-15"
+  },
+  {
+    "question": "Will GTA VI get delayed again?",
+    "id": "QVCzHBisAcKNfHYEAB4G",
+    "source": "manifold",
+    "background": "GTA",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/LiquidIsPerson3/will-gta-vi-get-delayed-again.",
+    "url": "https://manifold.markets/LiquidIsPerson3/will-gta-vi-get-delayed-again",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-04"
+  },
+  {
+    "question": "S&P 500 breaker before April 30?",
+    "id": "85llAdStSR",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/NathanDickson/sp-500-breaker-before-april-30.",
+    "url": "https://manifold.markets/NathanDickson/sp-500-breaker-before-april-30",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-04-30"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Trump impose large tariffs in first year?",
+    "id": "9t61v9e7x4",
+    "source": "manifold",
+    "background": "Donald Trump has promised a 10% tariff across the board for all goods entering the United States if elected. This market will settle as YES if Donald Trump gets elected and in any one quarter of 2025, the US weighted average tariff is at least 6%. For the last quarter we have data at this time, second quarter of 2024, the number was 2.4%. It was at 3.5% at its highest level of the Trump presidency.\n\nData is sourced from the Federal Reserve Economic Data website (link below). This market will settle as soon as Callum Williams, senior economics writer at The Economist, has calculated the number has crossed the 6% threshold for any quarter in 2025, or it hasn\u2019t for any of the quarters. If, when he does his calculations for the fourth quarter of 2025, the 6% threshold has not been met, this market will then settle NO. This market will settle as YES if either an initial estimate or any revision for any of the first three quarters of 2025 crosses the 6% threshold while the market is open. The fourth quarter number will be based on initial data and the market will close after that data is available at the latest. \n\nIf Donald Trump loses the election, this market will settle as N/A. If Donald Trump wins the election but a different president takes office at any point, this market will settle according to the same rules based on the US weighted tariff average for each quarter. \n\nIf Callum Williams is unavailable to conduct the analysis, a suitable replacement will be found.\n\nSee data here: https://fred.stlouisfed.org/graph/?g=1wn5e\n\nCallum Williams on X: https://x.com/econcallum\u00a0\u00a0",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first.",
+    "url": "https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Boston Celtics win the 2025 NBA Championship",
+    "id": "yZpALnnSSy",
+    "source": "manifold",
+    "background": "Will the Boston Celtics win the 2025 NBA Championship? \n\nMarket resolves YES if the Celtics win the 2025 NBA Finals, NO otherwise. \n\nResolution will be based on official NBA results.\n\nI will likely be on this question. \n\nCurrent betting odds from various sources:\n\n+260 (BetMassachusetts)\n\n+255 (DraftKings)\n\n+225 (Odds Shark)\n\nSources: https://www.betmassachusetts.com/odds/nba/boston-celtics https://www.oddsshark.com/nba/championship-odds\n\n[link preview]",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/kenmichaels/boston-celtics-win-the-2025-nba-cha.",
+    "url": "https://manifold.markets/kenmichaels/boston-celtics-win-the-2025-nba-cha",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-05-17"
+  },
+  {
+    "question": "Will Carson the Terrier place top 3 in the 2025 World Dog Surfing Championships?",
+    "id": "Nq5dlzEEpU",
+    "source": "manifold",
+    "background": "Context: The World Dog Surfing Championship (WDSC) is the most prestigious dog surfing competition (yes, that means literally dogs on surfboards).\n\nAt WDSC 2023, Carson the Terrier (personal website) was dominant, placing #1 as the overall \"Top Dog\". This was his second consecutive trip to the podium, after his strong #3 finish at WDSC 2022.\n\nBut in 2024 (here's the original market) Carson couldn't complete the three-peat, and placed outside the top 3 for \"Top Dog\" (although he finished a respectable #2 in the \"Small Dog\" division).\n\nCan Carson stage a comeback and reclaim the title?\n\nResolution:\n\nResolves YES if Carson the Terrier places in the top 3 of the \"Top Dog\" overall category at the 2025 WDSC.\n\nResolves N/A if Carson does not compete for any reason (e.g., retirement, the event is cancelled, etc). \n\nResolves NO if he competes but does not place in the top 3.\n\nThis market may close before the event to return liquidity.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-carson-the-terrier-place-top-3.",
+    "url": "https://manifold.markets/Ziddletwix/will-carson-the-terrier-place-top-3",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-08-01"
+  },
+  {
+    "question": "Will there be a perfect bracket that wins a \"Free Trip to Mars\" on X?",
+    "id": "lNUgd6UEQR",
+    "source": "manifold",
+    "background": "Context: \n\nX, Uber Eats launch March Madness perfect bracket challenge: winner gets at trip to Mars (Fox)\n\nAnd I just saw this pop up on X: \n\n[image]It doesn't matter whether they actually go to Mars. There just needs to be a consensus of credible reporting that there is a perfect bracket through this program that is now promised a trip to Mars.\n\nIf we have not heard anything about a perfect bracket, resolves NO by default on May 15th. \n\nIf they award a free trip to Mars to someone who didn't have a perfect bracket, that doesn't count either. They need to say \"this person had a perfect bracket and thus won a trip to Mars\". Obviously just winning the 100k for having the best bracket is irrelevant to this question.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-there-be-a-perfect-bracket-tha.",
+    "url": "https://manifold.markets/Ziddletwix/will-there-be-a-perfect-bracket-tha",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-05-16"
+  },
+  {
+    "question": "Will the NFL ban the Tush Push before next season?",
+    "id": "Znyy6p696A",
+    "source": "manifold",
+    "background": "If the National Football League formally amends its playing rules before the start of Preseason with the effect of prohibiting offensive players from pushing another player forward, whether applicable in some or all circumstances and with any effective date, this question will resolve as YES.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/10thOfficial/will-the-nfl-ban-the-tush-push-befo-QRhhslRsp5.",
+    "url": "https://manifold.markets/10thOfficial/will-the-nfl-ban-the-tush-push-befo-QRhhslRsp5",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-05-22"
+  },
+  {
+    "question": "Will an AI win a gold medal on International Math Olympiad (IMO) 2025?",
+    "id": "tu2ouer9zq",
+    "source": "manifold",
+    "background": "Will an AI score well enough on the 2025 International Mathematics Olympiad (IMO) to earn a gold medal score (top ~50 human performance)? Resolves YES if this result is reported no later than 1 month after IMO 2025 (currently scheduled for July 10-20). The AI must complete this task under the same time limits as human competitors. The AI may receive and output either informal or formal problems and proofs. More details below. Otherwise NO.\n\nThis is related to https://imo-grand-challenge.github.io/ but with some different rules.\n\nRules:\n\nThe result must be achieved on the IMO 2025 problemset and be reported by reliable publications no later than 1 month after the end of the IMO contest dates (https://www.imo-official.org/organizers.aspx, so by end of August 20 2025, if the IMO does not reschedule its date. Local timezone at the contest site).\n\nThe AI has only as much time as a human competitor (4.5 hours for each of the two sets of 3 problems), but there are no other limits on the computational resources it may use during that time.\n\nThe AI may receive and output either informal (natural language) or formal (e.g. the Lean language) problems as input and proofs as output.\n\nThe AI cannot query the Internet.\n\nThe AI must not have access to the problems before being evaluated on them, e.g. the problems cannot be included in the training set.\n\n(The deadline of 1 month after the competition is intended to give enough time for results to be finalized and published, while minimizing the chances of any accidental inclusion of the IMO solutions in the training set.)\n\nIf a gold medal score is achieved on IMO 2024 or an earlier IMO, that would not count for this market.\n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/jack/will-an-ai-win-a-gold-medal-on-imo.",
+    "url": "https://manifold.markets/jack/will-an-ai-win-a-gold-medal-on-imo",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-07-21"
+  },
+  {
+    "question": "Will Saudi Arabia abandon (or vastly scale back) the NEOM linear city project by 2028?",
+    "id": "QtxO4jGNyhDzq5s3NrcG",
+    "source": "manifold",
+    "background": "Abandoned in this case will mean:\n\nExplicitly cancelled \n\nShelved indefinitely (like Jeddah Tower) with no measurable progress in design or construction \n\nScaled back to something vastly more modest (at my disgression)\n\nI will try to judge these criteria as objectively as possible, I do have the personal opinion the project is unrealistic though.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom.",
+    "url": "https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-30"
+  },
+  {
+    "question": "Will Trump publicly disparage Musk within a year of the election?",
+    "id": "h2h0QzCqqC",
+    "source": "manifold",
+    "background": "Within a year of the election, will Trump publicly disparage Elon Musk? \n\nThis could be for any reason, provoked or otherwise. Things like belittling nicknames and personal insults would count, or \"I never liked him anyway\" type statements.\n\nAs this might be somewhat subjective, I won't trade.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk.",
+    "url": "https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-06-05"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Will Tua Tagovailoa retire from the NFL by the start of the 2025 regular season?",
+    "id": "5n4fsbzm94",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/10thOfficial/will-tua-tagovailoa-retire-from-the.",
+    "url": "https://manifold.markets/10thOfficial/will-tua-tagovailoa-retire-from-the",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-05"
+  },
+  {
+    "question": "Will Lewis Hamilton score more points than Charles Leclerc in the 2025 F1 season?",
+    "id": "Cg6Oy62I52",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AlexanderTheGreater/will-lewis-hamilton-score-more-poin-QLqyl5dAZ2.",
+    "url": "https://manifold.markets/AlexanderTheGreater/will-lewis-hamilton-score-more-poin-QLqyl5dAZ2",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  },
+  {
+    "question": "Will there be a language model called GPT-5, released by OpenAI, this decade? ",
+    "id": "eZptlPJe8gq9rb0Gia6t",
+    "source": "manifold",
+    "background": "Given a lot of political pressures, i think it's somewhat plausible for there not to be any model called GPT-5, that openAI just releases upgraded ChatGPTs. Maybe they work only on multimodal models from now on and never release any pure large language model again, etc. and discontinue the GPT series.\n\nWill there be a large language model titled officially as GPT-5 released by OpenAI? It can be a multimodal model called GPT-5, or it can be a language only model called GPT-5. The question is whether they will discontinue this particular series and do something different, as ex: Gobi, arrakis etc suggest.\n\nIn case OpenAI splits up etc, i will make changes at the time to reflect the resolution criteria better.\n\ni think it's less likely that they release it named as a GPT-5 if they're moving away from pure language models, but if they do release a multimodel GPT-5, then it counts\n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/_deleted_/will-there-be-a-language-model-by-o.",
+    "url": "https://manifold.markets/_deleted_/will-there-be-a-language-model-by-o",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-07"
+  },
+  {
+    "question": "Best Actress Oscar is removed, renamed, or combined with Best Actor by June 2025",
+    "id": "DPSqhbtgeZGPEzt6KBnm",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ernie/best-actress-oscar-is-removed-renam.",
+    "url": "https://manifold.markets/Ernie/best-actress-oscar-is-removed-renam",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-06-01"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie make over a billion dollars at the worldwide box office?",
+    "id": "AtLFLzDlSERmVcSdUapy",
+    "source": "manifold",
+    "background": "Not counting re-releases. Will push back resolve date if necessary.\n\nEdit: if by some chance this movie doesn't get a wide release in theaters... I will resolve N/A.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  },
+  {
+    "question": "Will Trump publicly disparage Musk within a year of the election?",
+    "id": "h2h0QzCqqC",
+    "source": "manifold",
+    "background": "Within a year of the election, will Trump publicly disparage Elon Musk? \n\nThis could be for any reason, provoked or otherwise. Things like belittling nicknames and personal insults would count, or \"I never liked him anyway\" type statements.\n\nAs this might be somewhat subjective, I won't trade.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk.",
+    "url": "https://manifold.markets/EvanDaniel/will-trump-publicly-disparage-musk",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-06-05"
+  },
+  {
+    "question": "Will Saudi Arabia abandon (or vastly scale back) the NEOM linear city project by 2028?",
+    "id": "QtxO4jGNyhDzq5s3NrcG",
+    "source": "manifold",
+    "background": "Abandoned in this case will mean:\n\nExplicitly cancelled \n\nShelved indefinitely (like Jeddah Tower) with no measurable progress in design or construction \n\nScaled back to something vastly more modest (at my disgression)\n\nI will try to judge these criteria as objectively as possible, I do have the personal opinion the project is unrealistic though.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom.",
+    "url": "https://manifold.markets/JemBishop/will-saudi-arabia-abandon-the-neom",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-05-30"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Trump impose large tariffs in first year?",
+    "id": "9t61v9e7x4",
+    "source": "manifold",
+    "background": "Donald Trump has promised a 10% tariff across the board for all goods entering the United States if elected. This market will settle as YES if Donald Trump gets elected and in any one quarter of 2025, the US weighted average tariff is at least 6%. For the last quarter we have data at this time, second quarter of 2024, the number was 2.4%. It was at 3.5% at its highest level of the Trump presidency.\n\nData is sourced from the Federal Reserve Economic Data website (link below). This market will settle as soon as Callum Williams, senior economics writer at The Economist, has calculated the number has crossed the 6% threshold for any quarter in 2025, or it hasn\u2019t for any of the quarters. If, when he does his calculations for the fourth quarter of 2025, the 6% threshold has not been met, this market will then settle NO. This market will settle as YES if either an initial estimate or any revision for any of the first three quarters of 2025 crosses the 6% threshold while the market is open. The fourth quarter number will be based on initial data and the market will close after that data is available at the latest. \n\nIf Donald Trump loses the election, this market will settle as N/A. If Donald Trump wins the election but a different president takes office at any point, this market will settle according to the same rules based on the US weighted tariff average for each quarter. \n\nIf Callum Williams is unavailable to conduct the analysis, a suitable replacement will be found.\n\nSee data here: https://fred.stlouisfed.org/graph/?g=1wn5e\n\nCallum Williams on X: https://x.com/econcallum\u00a0\u00a0",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first.",
+    "url": "https://manifold.markets/RichardHanania/trump-impose-large-tariffs-in-first",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Will an AI win a gold medal on International Math Olympiad (IMO) 2025?",
+    "id": "tu2ouer9zq",
+    "source": "manifold",
+    "background": "Will an AI score well enough on the 2025 International Mathematics Olympiad (IMO) to earn a gold medal score (top ~50 human performance)? Resolves YES if this result is reported no later than 1 month after IMO 2025 (currently scheduled for July 10-20). The AI must complete this task under the same time limits as human competitors. The AI may receive and output either informal or formal problems and proofs. More details below. Otherwise NO.\n\nThis is related to https://imo-grand-challenge.github.io/ but with some different rules.\n\nRules:\n\nThe result must be achieved on the IMO 2025 problemset and be reported by reliable publications no later than 1 month after the end of the IMO contest dates (https://www.imo-official.org/organizers.aspx, so by end of August 20 2025, if the IMO does not reschedule its date. Local timezone at the contest site).\n\nThe AI has only as much time as a human competitor (4.5 hours for each of the two sets of 3 problems), but there are no other limits on the computational resources it may use during that time.\n\nThe AI may receive and output either informal (natural language) or formal (e.g. the Lean language) problems as input and proofs as output.\n\nThe AI cannot query the Internet.\n\nThe AI must not have access to the problems before being evaluated on them, e.g. the problems cannot be included in the training set.\n\n(The deadline of 1 month after the competition is intended to give enough time for results to be finalized and published, while minimizing the chances of any accidental inclusion of the IMO solutions in the training set.)\n\nIf a gold medal score is achieved on IMO 2024 or an earlier IMO, that would not count for this market.\n\n",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/jack/will-an-ai-win-a-gold-medal-on-imo.",
+    "url": "https://manifold.markets/jack/will-an-ai-win-a-gold-medal-on-imo",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-07-21"
+  },
+  {
+    "question": "Will Spider-Man: Beyond the Spider-Verse release before Hollow Knight Silksong?",
+    "id": "kCikWdlPijovPazB9fP1",
+    "source": "manifold",
+    "background": "Spider-Man: Beyond the Spider-Verse was originally scheduled for March 29, 2024 but has since been delayed.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-ef9c65e9e152.",
+    "url": "https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-ef9c65e9e152",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-04"
+  },
+  {
+    "question": "Will Tua Tagovailoa retire from the NFL by the start of the 2025 regular season?",
+    "id": "5n4fsbzm94",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/10thOfficial/will-tua-tagovailoa-retire-from-the.",
+    "url": "https://manifold.markets/10thOfficial/will-tua-tagovailoa-retire-from-the",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-05"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Will TSLA reach >$ 550 before 8pm EST on 8/8/25?",
+    "id": "z0xj9vne49",
+    "source": "manifold",
+    "background": "Clarification:\n\nMarket resolves if TSLA reaches >$550 ($550.01+) at any point before 8pm EST on 8/8/25 - this includes After Market but not Overnight trading.\n\nFor After Market trading information: After-Hours Trading: How It Works, Advantages, Risks, Example (investopedia.com)",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/MattF/will-tsla-reach-550-before-8pm-est.",
+    "url": "https://manifold.markets/MattF/will-tsla-reach-550-before-8pm-est",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-08-08"
+  },
+  {
+    "question": "Was synthetic video data generated and used in training Sora?",
+    "id": "AaZr2KnQYHGRVHzvKoHa",
+    "source": "manifold",
+    "background": "Was synthetic video data generated for training Sora, eg large scale clips from Unreal Engine as suggested by this tweet. It does not count if there happens to be synthetic data in the training data. This will resolve yes if the consensus is large scale synthetic data generation was used for Sora.\n\nIf there is no clear consensus, I will resolve it based on my judgement using any material released by OpenAI.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/m2/was-synthetic-data-generated-and-us.",
+    "url": "https://manifold.markets/m2/was-synthetic-data-generated-and-us",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-15"
+  },
+  {
+    "question": "Will Spider-Man: Beyond the Spider-Verse release before Hollow Knight Silksong?",
+    "id": "kCikWdlPijovPazB9fP1",
+    "source": "manifold",
+    "background": "Spider-Man: Beyond the Spider-Verse was originally scheduled for March 29, 2024 but has since been delayed.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-ef9c65e9e152.",
+    "url": "https://manifold.markets/strutheo/will-spiderman-beyond-the-spiderver-ef9c65e9e152",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-04"
+  },
+  {
+    "question": "Will Trump & Elon cut >250,000 government employees in 2025?",
+    "id": "llC0sSgzg8",
+    "source": "manifold",
+    "background": "Linked to this Kalshi question:\n\nIf there are more than 250000 federal employees no longer working relative to the January 2025 employee count before Jan 2026, then the market resolves to Yes. Outcome verified from FRED.\n\nNote the resolution criteria\u2014what matters is the change in the count of federal employees, not whether we can confirm Trump and/or Elon directly fired them. For reference, the specific chart Kalshi links to appears to be this one.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme.",
+    "url": "https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-12-17"
+  },
+  {
+    "question": "Will Fernando Alonso end up in top-2 of F1 WDC 2025?",
+    "id": "h7dapoa4cm",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/yehor/will-fernando-alonso-end-up-in-top2.",
+    "url": "https://manifold.markets/yehor/will-fernando-alonso-end-up-in-top2",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-10-13"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Will Trump & Elon cut >250,000 government employees in 2025?",
+    "id": "llC0sSgzg8",
+    "source": "manifold",
+    "background": "Linked to this Kalshi question:\n\nIf there are more than 250000 federal employees no longer working relative to the January 2025 employee count before Jan 2026, then the market resolves to Yes. Outcome verified from FRED.\n\nNote the resolution criteria\u2014what matters is the change in the count of federal employees, not whether we can confirm Trump and/or Elon directly fired them. For reference, the specific chart Kalshi links to appears to be this one.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme.",
+    "url": "https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-12-17"
+  },
+  {
+    "question": "Will Elon Musk buy OpenAI?",
+    "id": "SqEcEtuq28",
+    "source": "manifold",
+    "background": "Resolves YES if Elon Musk & OpenAI formally begin the process for Elon Musk or his associated companies to be\u2014whether alone or as part of a consortium of other investors\u2014the majority/controlling owner of OpenAI before market close (August 31st, 2025). Otherwise (including in the absence of any other information), resolves NO at market close.\n\nIt does not matter if the process is eventually blocked before it completes, there just needs to be a formal-ish announcement from both parties.\n\nThere are many edge cases I cannot specify in advance, so please ask clarifying questions if you are unsure. I plan to be fairly broad with how I define \"Musk buying OpenAI\"\u2014the goal is to capture the spirit of the headlines.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai.",
+    "url": "https://manifold.markets/Ziddletwix/will-elon-musk-buy-openai",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-09-01"
+  },
+  {
+    "question": "Will Lewis Hamilton score more points than Charles Leclerc in the 2025 F1 season?",
+    "id": "Cg6Oy62I52",
+    "source": "manifold",
+    "background": "",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/AlexanderTheGreater/will-lewis-hamilton-score-more-poin-QLqyl5dAZ2.",
+    "url": "https://manifold.markets/AlexanderTheGreater/will-lewis-hamilton-score-more-poin-QLqyl5dAZ2",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  },
+  {
+    "question": "Will Trump & Elon cut >250,000 government employees in 2025?",
+    "id": "llC0sSgzg8",
+    "source": "manifold",
+    "background": "Linked to this Kalshi question:\n\nIf there are more than 250000 federal employees no longer working relative to the January 2025 employee count before Jan 2026, then the market resolves to Yes. Outcome verified from FRED.\n\nNote the resolution criteria\u2014what matters is the change in the count of federal employees, not whether we can confirm Trump and/or Elon directly fired them. For reference, the specific chart Kalshi links to appears to be this one.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme.",
+    "url": "https://manifold.markets/Ziddletwix/will-trump-elon-cut-250000-governme",
+    "resolved_to": 1.0,
+    "resolution_date": "2025-12-17"
+  },
+  {
+    "question": "Was synthetic video data generated and used in training Sora?",
+    "id": "AaZr2KnQYHGRVHzvKoHa",
+    "source": "manifold",
+    "background": "Was synthetic video data generated for training Sora, eg large scale clips from Unreal Engine as suggested by this tweet. It does not count if there happens to be synthetic data in the training data. This will resolve yes if the consensus is large scale synthetic data generation was used for Sora.\n\nIf there is no clear consensus, I will resolve it based on my judgement using any material released by OpenAI.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/m2/was-synthetic-data-generated-and-us.",
+    "url": "https://manifold.markets/m2/was-synthetic-data-generated-and-us",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-15"
+  },
+  {
+    "question": "Was synthetic video data generated and used in training Sora?",
+    "id": "AaZr2KnQYHGRVHzvKoHa",
+    "source": "manifold",
+    "background": "Was synthetic video data generated for training Sora, eg large scale clips from Unreal Engine as suggested by this tweet. It does not count if there happens to be synthetic data in the training data. This will resolve yes if the consensus is large scale synthetic data generation was used for Sora.\n\nIf there is no clear consensus, I will resolve it based on my judgement using any material released by OpenAI.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/m2/was-synthetic-data-generated-and-us.",
+    "url": "https://manifold.markets/m2/was-synthetic-data-generated-and-us",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-15"
+  },
+  {
+    "question": "Will the upcoming Minecraft movie make over a billion dollars at the worldwide box office?",
+    "id": "AtLFLzDlSERmVcSdUapy",
+    "source": "manifold",
+    "background": "Not counting re-releases. Will push back resolve date if necessary.\n\nEdit: if by some chance this movie doesn't get a wide release in theaters... I will resolve N/A.",
+    "resolution_criteria": "Resolves to the outcome of the question found at https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m.",
+    "url": "https://manifold.markets/asmith/will-the-upcoming-minecraft-movie-m",
+    "resolved_to": 0.0,
+    "resolution_date": "2025-12-08"
+  }
+]
