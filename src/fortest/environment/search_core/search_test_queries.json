@@ -1,0 +1,34 @@
+{
+    "queries": [
+        {
+            "id": "Q001",
+            "query": "SpaceX Starship launch test",
+            "testing_time": "2024-06-01T00:00:00Z",
+            "description": "SpaceX Starship development progress before June 2024"
+        },
+        {
+            "id": "Q002",
+            "query": "OpenAI GPT-4 release announcement",
+            "testing_time": "2024-03-15T00:00:00Z",
+            "description": "GPT-4 and AI news before mid-March 2024"
+        },
+        {
+            "id": "Q003",
+            "query": "Ukraine Russia conflict developments",
+            "testing_time": "2024-06-01T00:00:00Z",
+            "description": "Ukraine-Russia conflict news before June 2024"
+        },
+        {
+            "id": "Q004",
+            "query": "Federal Reserve interest rate decision",
+            "testing_time": "2024-09-15T00:00:00Z",
+            "description": "Fed interest rate news before mid-September 2024"
+        },
+        {
+            "id": "Q005",
+            "query": "Apple Vision Pro announcement",
+            "testing_time": "2024-06-10T00:00:00Z",
+            "description": "Apple Vision Pro news before June 2024"
+        }
+    ]
+}

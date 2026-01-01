@@ -9,8 +9,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "asknews>=0.13.7",
     "ddgs>=9.10.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.0",
     "parallel-web>=0.3.4",
+    "playwright>=1.57.0",
     "python-dotenv>=1.2.1",
     "requests>=2.32.5",
 ]

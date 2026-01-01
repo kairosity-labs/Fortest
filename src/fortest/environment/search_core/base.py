@@ -34,8 +34,8 @@ class SearchCore:
         """Returns a list of available search functions."""
         return list(self._registry.keys())
 
-    async def execute(self, function_name: str, query: str, testing_time: str) -> Any:
-        """Executes a search function."""
+    async def execute(self, function_name: str, query: str, testing_time: str, **kwargs) -> Any:
+        """Executes a search function with optional parameters like k."""
         if function_name not in self._registry:
             raise ValueError(f"Search function '{function_name}' not found. Available: {self.list_available_functions()}")
-        return await self._registry[function_name](query, testing_time)
+        return await self._registry[function_name](query, testing_time, **kwargs)
